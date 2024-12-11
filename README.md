@@ -1,4 +1,4 @@
-## learning-repository
+# learning-repository
 
 ### English:
 Personal repository of studies, where I share notes, exercises, and projects related to learning new technologies and programming techniques.
