@@ -1,4 +1,4 @@
-# Python Course - LinkedIn Learning
+# Python: Formação Básica - LinkedIn Learning
 
 ## Descrição
 Curso introdutório e avançado de Python oferecido pela LinkedIn Learning. O curso cobre os seguintes tópicos:
