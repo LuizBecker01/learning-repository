@@ -1,7 +1,17 @@
-# learning-repository
+# Python Course - LinkedIn Learning
 
-### English:
-Personal repository of studies, where I share notes, exercises, and projects related to learning new technologies and programming techniques.
+## Descrição
+Curso introdutório e avançado de Python oferecido pela LinkedIn Learning. O curso cobre os seguintes tópicos:
+- Sintaxe básica do Python
+- Estruturas de dados
+- Programação funcional e orientada a objetos
+- Trabalhando com arquivos e APIs
 
-### Português:
-Repositório pessoal de estudos, onde compartilho notas, exercícios e projetos relacionados ao aprendizado de novas tecnologias e técnicas de programação.
+## Certificado
+[Link para o certificado (adicionar após a conclusão)]()
+
+## Notas
+- [Notas do curso](notes.md)
+
+## Exercícios
+- Exemplos e exercícios resolvidos estão disponíveis na pasta `exercises/`.
