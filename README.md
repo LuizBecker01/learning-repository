@@ -1,4 +1,4 @@
-# learning Repository - Luiz Becker
+# Learning Repository - Luiz Becker
 
 ### English:
 ### Introduction
