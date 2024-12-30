@@ -1,6 +1,6 @@
 ## Conteúdo do curso
 ### Descrição
-O curso é dividido em 26(vinte e seis) seções, cada seção é focada em algum conteúdo relacionado ao Java.
+O curso é dividido em 26(vinte e seis) seções, cada seção é focada em algum conteúdo relacionado ao Java. Anotações serão feitas em "Seção 1: (Anotação)...".
 
 ### Conteúdo das seções
 - Seção 1: Introdução
