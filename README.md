@@ -1,15 +1,15 @@
 # learning-repository
 
 ### English:
-#### Introduction
+### Introduction
 This is my personal study repository, where I share notes, exercises, and projects related to learning new technologies and programming techniques as I progress.
 
-## Repository Structure
+### Repository Structure
 - `/notes`: Contains study notes.
 - `/exercises`: Includes practical exercises completed.
 - `/projects`: Houses projects developed during the learning process.
 
-## How to Run the Projects
+### How to Run the Projects
 1. Clone the repository:
    ```bash
    git clone https://github.com/LuizBecker01/learning-repository.git
@@ -20,16 +20,15 @@ This is my personal study repository, where I share notes, exercises, and projec
 
 ##
 ### Português:
-#### Introdução
+### Introdução
 Este é o meu repositório pessoal de estudos, onde compartilho notas, exercícios e projetos relacionados ao aprendizado de novas tecnologias e técnicas de programação que irei aprendendo.
 
-#### Estrutura do Repositório
+### Estrutura do Repositório
 - `/notas`: Contém anotações de estudos.
 - `/exercicios`: Inclui exercícios práticos realizados.
 - `/projetos`: Abriga projetos desenvolvidos durante o aprendizado.
 
-#### Como Executar os Projetos
-
+### Como Executar os Projetos
 1. Clone o repositório:
    ```bash
    git clone https://github.com/LuizBecker01/learning-repository.git
@@ -38,7 +37,9 @@ Este é o meu repositório pessoal de estudos, onde compartilho notas, exercíci
    cd learning-repository/projetos/nome-do-projeto
 3. Siga as instruções específicas de cada projeto para executá-lo.
 
-#### MIT License:
+##
+
+### MIT License:
 
 Copyright (c) 2024 Luiz Becker
 
