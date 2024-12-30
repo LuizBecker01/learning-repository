@@ -1,11 +1,11 @@
-# learning-repository
+# learning Repository - Luiz Becker
 
 ### English:
 ### Introduction
 This is my personal study repository, where I share notes, exercises, and projects related to learning new technologies and programming techniques as I progress.
 
 ### Repository Structure
-- `/notes`: Contains study notes.
+- `/notes`: Contains notes and instructions, including what needs to be installed to run the projects.
 - `/exercises`: Includes practical exercises completed.
 - `/projects`: Houses projects developed during the learning process.
 
@@ -24,7 +24,7 @@ This is my personal study repository, where I share notes, exercises, and projec
 Este é o meu repositório pessoal de estudos, onde compartilho notas, exercícios e projetos relacionados ao aprendizado de novas tecnologias e técnicas de programação que irei aprendendo.
 
 ### Estrutura do Repositório
-- `/notas`: Contém anotações de estudos.
+- `/notas`: Contém anotações e instruções, incluindo o que precisa ser instalado para rodar os projetos.
 - `/exercicios`: Inclui exercícios práticos realizados.
 - `/projetos`: Abriga projetos desenvolvidos durante o aprendizado.
 
