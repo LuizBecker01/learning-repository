@@ -1,5 +1,5 @@
 ## Descrição do Curso de Java
-### O que você ierei aprender:
+### O que você ira aprender:
 Este curso de Java é completo e te leva do básico ao avançado, com foco em Programação Orientada a Objetos (POO). Ao longo do curso, você vai aprender a:
 - Dominar Java e POO, desde os conceitos mais simples até os mais avançados.
 - Criar soluções flexíveis, escaláveis e que podem ser testadas facilmente.
