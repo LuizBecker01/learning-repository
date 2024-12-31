@@ -21,4 +21,4 @@ public class Main {
 
         System.out.printf("%s tem %d anos e ganha R$ %.2f reais%n", nome, idade, renda);
     }
-}
+}     
