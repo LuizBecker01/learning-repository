@@ -2,6 +2,9 @@
 ### Descrição
 O curso é dividido em 26(vinte e seis) seções, cada seção é focada em algum conteúdo relacionado ao Java. Anotações serão feitas em "Seção 1: (Anotação)...".
 
+### Avisos
+- Dentro de cada arquivo, terá um comentário o topo falando sobre o conteúdo da seção e o que foi feito. Para que assim fique bem claro para você!
+
 ### Conteúdo das seções
 - Seção 1: Introdução
 - Seção 2: Conceitos de programação
@@ -29,6 +32,8 @@ O curso é dividido em 26(vinte e seis) seções, cada seção é focada em algu
 - Seção 24: Bônus: Projeto Spring Boote banco MongoDB (web services + NoSQL)
 - Seção 25: Bônus (LEGADO): Interface gráfica com JavaFX(projeto Java11)
 - Seção 26: Seção Bônus
+
+###
 
 ### O que deve ser utilizado para rodar os exemplos:
   
