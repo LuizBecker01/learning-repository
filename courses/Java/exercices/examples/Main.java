@@ -7,7 +7,6 @@ public class Main {
         System.out.println("Good Day!");
 
         //variaveis
-
         double x = 10.35784;
         String nome = "Maria";
         int idade = 31;
