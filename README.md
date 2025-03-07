@@ -5,13 +5,13 @@
 This is a personal project where I share information about myself and the knowledge I've gained throughout my journey in programming. The site has an intuitive and responsive design, allowing for easy and efficient navigation.
 
 ### ⚙️ Features
-🌐 Personal presentation;
+- 🌐 Personal presentation;
 
-📚 Sharing acquired knowledge;
+- 📚 Sharing acquired knowledge;
 
-💡 Section with projects and experiences;
+- 💡 Section with projects and experiences;
 
-📱 Responsive layout.
+- 📱 Responsive layout.
 
 ### 🛠 Technologies Used
       HTML5
