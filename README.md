@@ -5,7 +5,7 @@
 ### 📖 Sobre
 Este é um projeto pessoal onde compartilho informações sobre mim e os conhecimentos que adquiri ao longo da minha jornada na programação. O site tem um design intuitivo e responsivo, permitindo uma navegação fácil e eficiente.
 
-## ⚙️ Funcionalidades
+### ⚙️ Funcionalidades
 
    🌐 Apresentação pessoal
 
@@ -15,7 +15,7 @@ Este é um projeto pessoal onde compartilho informações sobre mim e os conheci
 
    📱 Layout responsivo
 
-## 🛠 Tecnologias Utilizadas
+### 🛠 Tecnologias Utilizadas
 
       HTML5
 
@@ -25,7 +25,7 @@ Este é um projeto pessoal onde compartilho informações sobre mim e os conheci
 
       ...
 
-## 📂 Como rodar localmente
+### 📂 Como rodar localmente
 
 Se deseja rodar o projeto localmente, siga os passos abaixo:
 
@@ -39,7 +39,7 @@ Se deseja rodar o projeto localmente, siga os passos abaixo:
 
 3. Abra o arquivo index.html no navegador.
 
-## 📬 Contato
+### 📬 Contato
 
 Caso tenha alguma sugestão ou feedback, fique à vontade para entrar em contato!
 
