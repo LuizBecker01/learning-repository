@@ -1,5 +1,51 @@
 # Learning Repository - My WebSite - Luiz Becker
 
+### Welcome to my website repository! 🚀
+### 📖 About
+This is a personal project where I share information about myself and the knowledge I've gained throughout my journey in programming. The site has an intuitive and responsive design, allowing for easy and efficient navigation.
+
+### ⚙️ Features
+🌐 Personal presentation;
+
+📚 Sharing acquired knowledge;
+
+💡 Section with projects and experiences;
+
+📱 Responsive layout.
+
+### 🛠 Technologies Used
+      HTML5
+
+      CSS3
+
+      JavaScript
+
+      ...
+
+### 📂 How to run locally
+If you want to run the project locally, follow the steps below:
+
+Clone this repository:
+
+      git clone https://github.com/your-username/repository-name.git
+      
+Access the project folder:
+
+      cd repository-name
+      
+Open the index.html file in your browser.
+
+### 📬 Contact
+If you have any suggestions or feedback, feel free to reach out!
+
+📧 Email: luizhenriquebecker000@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/luizbecker08
+
+🐙 GitHub: LuizBecker01
+
+### Portugês 
+
 ### Bem-vindo ao repositório do meu site! 🚀
 
 ### 📖 Sobre
@@ -7,13 +53,13 @@ Este é um projeto pessoal onde compartilho informações sobre mim e os conheci
 
 ### ⚙️ Funcionalidades
 
-   🌐 Apresentação pessoal
+   🌐 Apresentação pessoal;
 
-   📚 Compartilhamento de conhecimentos adquiridos
+   📚 Compartilhamento de conhecimentos adquiridos;
 
-   💡 Seção com projetos e experiências
+   💡 Seção com projetos e experiências;
 
-   📱 Layout responsivo
+   📱 Layout responsivo.
 
 ### 🛠 Tecnologias Utilizadas
 
